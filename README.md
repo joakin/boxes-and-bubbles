@@ -2,7 +2,11 @@
 
 This is a port from
 [jastice/boxes-and-bubbles](https://github.com/jastice/boxes-and-bubbles) to elm
-0.19. Unpublished in the package registry ATM.
+0.19. Unpublished in the package registry ATM. Right now the engine seems a bit
+unstable and the API can be improved, it is a bit inconsistent. So I'm not sure
+if this is usable in any games.
+
+---
 
 A simple-as-possible 2D physics rigid-body physics engine for Elm. Supports only
 bubbles (circles) and boxes (axis-aligned rectangles).
